@@ -14,5 +14,3 @@ body.appendChild(odinLogo);
 
 console.log('Hello, World!');
 greetMe();
-
-const person = new Object();
