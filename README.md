@@ -1,6 +1,6 @@
-# webpack-template
+# Webpack Template
 
-A template for projects that need Webpack
+A template for projects that need Webpack. It does not include ESLint.
 
 ## About the Project
 
